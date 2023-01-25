@@ -114,7 +114,7 @@ void presentarJuego() {
         while (cartas[i] != null) {
             i++;
         }
-        cartas[i] = c;
+        cartas[i] = c; 
     }
 
     void mostrarCartas(Carta[] cartas) {
